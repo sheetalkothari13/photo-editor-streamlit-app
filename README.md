@@ -14,7 +14,7 @@ An interactive and beginner-friendly Photo Editor built with Python, Streamlit, 
 - 🔥 Matplotlib colormaps (viridis, plasma, inferno, etc.)
 - 💾 Save edited image locally
 
-- 🧰 Tech Stack
+🧰 Tech Stack
 Python
 Streamlit
 PIL
